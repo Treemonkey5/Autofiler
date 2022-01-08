@@ -1,6 +1,6 @@
 #! python3
 
-import os,send2trash,shutil,re
+import os,send2trash,shutil
 
 filetypes=['pdf','docx','ppt','xlsx','zip','jpg','pptx']
 source=('C:\\Users\\Parker\\Downloads')
